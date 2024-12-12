@@ -32,5 +32,6 @@ Este projeto permite aos usuários criar arte interativa através de notas music
 - É necessário baixar os seguintes aplicativos:
   - [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html).
   - [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth).
+  - Além disso, é necessário montar a matriz de detecção, para a qual existe um esquemático no arquivo `matriz.fzz`.
 
-![matriz_bb](https://github.com/user-attachments/assets/5ec819c5-38e0-45e9-b5c5-4b3ce51b3bdf)
+![Esquemático da matriz](https://github.com/user-attachments/assets/5ec819c5-38e0-45e9-b5c5-4b3ce51b3bdf)
