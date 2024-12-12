@@ -28,7 +28,7 @@ Este projeto permite aos usuários criar arte interativa através de notas music
 - Além disso, a velocidade da varredura permite que o usuário aumente o bpm do beat.
 
 ## Pré-Requisitos
-- Para rodar o projeto é necessário baixar o [IDE do Arduino](https://www.arduino.cc/en/software), um editor de código que suporte Python e as bibliotecas `pygame.midi`.
+- Para rodar o projeto é necessário baixar o [IDE do Arduino](https://www.arduino.cc/en/software), um editor de código que suporte Python e a biblioteca `pygame.midi`.
 - É necessário baixar os seguintes aplicativos:
   - [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html).
   - [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth).
