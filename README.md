@@ -21,8 +21,8 @@ Este projeto permite aos usuários criar arte interativa através de notas music
   - Salvar preferências do usuário, como:
     - Velocidade da varredura.
     - Duração das notas.
-    - Notas e instrumentos selecionados.
-- **Integração com Banco de Dados**: Armazena configurações dos usuários para experiências personalizadas.
+    - Instrumentos.
+    - Escala.
+    - Salvar Loop.
+    - Apagar Loop.
 
-## Desenvolvimento Futuro
-Este projeto busca combinar música, tecnologia e interação do usuário, abrindo caminho para exploração inovadora e criativa.
