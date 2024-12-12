@@ -10,7 +10,7 @@ Este projeto permite aos usuários criar arte interativa através de notas music
 - **Matriz de Detecção**: Uma matriz de detecção 4x4 utiliza fios equivalentes à soma das linhas e colunas.
 - **Bolas Condutoras**: Quando uma corrente elétrica (5 volts) é enviada pelas linhas, identifica onde a corrente passa devido ao material condutor das bolas.
 - **Identificação do Ponto**: Localizando tanto a linha quanto a coluna que permitem a passagem de corrente, o sistema identifica a posição da bola.
-- **Sequenciador MIDI**: Ao ser identificado pelo código arduino "Codigo_Final_IDE", o ponto é enviado ao código python "ComunicaçãoFinal.py" via Serial e é conectado a uma nota musical correspondente por meio de um sequenciador MIDI, que está no código "MúsicaFinal.py" do computador.
+- **Sequenciador MIDI**: Ao ser identificado pelo código arduino `Codigo_Final_IDE`, o ponto é enviado ao código python `ComunicaçãoFinal.py` via Serial e é conectado a uma nota musical correspondente por meio de um sequenciador MIDI, que está no código `MúsicaFinal.py` do computador.
 
 ### Feedback Visual
 - **Indicadores de LED**: Uma fita de LED fornece feedback visual, acendendo para indicar os pontos que estão sendo escaneados e lidos.
