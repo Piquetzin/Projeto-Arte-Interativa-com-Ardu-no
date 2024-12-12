@@ -1,4 +1,4 @@
-# Projeto-Arte-Interativa-com-Arduino
+# Projeto Arte Interativa com Arduino
 
 # Mesa de Música Interativa
 
@@ -7,10 +7,10 @@ Este projeto permite aos usuários criar arte interativa através de notas music
 ## Como Funciona
 
 ### Detecção das Bolas
-- **Matriz de Detecção**: Uma matriz de detecção utiliza fios equivalentes à soma das linhas e colunas.
+- **Matriz de Detecção**: Uma matriz de detecção 4x4 utiliza fios equivalentes à soma das linhas e colunas.
 - **Bolas Condutoras**: Quando uma corrente elétrica (5 volts) é enviada pelas linhas, identifica onde a corrente passa devido ao material condutor das bolas.
 - **Identificação do Ponto**: Localizando tanto a linha quanto a coluna que permitem a passagem de corrente, o sistema identifica a posição da bola.
-- **Sequenciador MIDI**: Cada ponto identificado é conectado a uma nota musical correspondente por meio de um sequenciador MIDI para o PC.
+- **Sequenciador MIDI**: Cada ponto identificado é conectado a uma nota musical correspondente por meio de um sequenciador MIDI para o computador.
 
 ### Feedback Visual
 - **Indicadores de LED**: Uma fita de LED fornece feedback visual, acendendo para indicar os pontos que estão sendo escaneados e lidos.
@@ -20,9 +20,11 @@ Este projeto permite aos usuários criar arte interativa através de notas music
   - Funcionalidade de Play/Pause.
   - Salvar preferências do usuário, como:
     - Velocidade da varredura.
-    - Duração das notas.
     - Instrumentos.
     - Escala.
     - Salvar Loop.
     - Apagar Loop.
-
+    - 
+## Possibilidades de Uso
+- Com a opção do Loop, o usuário pode formar diferentes beats com quatro tempos, podendo formar um fundo de diferentes instrumentos com diferentes escalas.
+- Além disso, a velocidade da varredura permite que o usuário aumente o bpm do beat.
