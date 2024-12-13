@@ -2,7 +2,9 @@
 
 # Mesa de Música Interativa
 
-Este projeto permite aos usuários criar arte interativa através de notas musicais ativadas por bolas colocadas em locais designados na mesa. Ele combina tecnologia e criatividade para deixar a imaginação fluir.
+Este projeto é uma iniciativa inovadora que permite aos usuários criar arte interativa através de notas musicais ativadas por bolas colocadas em locais designados na mesa. A proposta combina elementos de tecnologia avançada com a liberdade criativa, oferecendo uma experiência única e envolvente. Os participantes podem explorar sons e ritmos de maneira dinâmica, enquanto interagem diretamente com o sistema. Essa abordagem estimula a criatividade, proporcionando uma nova forma de expressão artística onde a imaginação é o único limite.
+
+Ao transformar uma interface física em um instrumento musical interativo, o projeto une o mundo real e o digital, criando um ambiente propício para a experimentação e o aprendizado. Seja para fins educacionais, recreativos ou artísticos, esta plataforma demonstra como a tecnologia pode ser usada para ampliar as possibilidades criativas.
 
 ## Como Funciona
 
